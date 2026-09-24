@@ -1,6 +1,6 @@
 # Nombre Equipo: SigmaEdgersSystems 
 
-## Repositorio para el Proyecto de Desarrollo de Sistemas Inteligentes UMUS
+## Repositorio para el Proyecto de Desarrollo de Sistemas Inteligentes UMU
   
 ###  Integrantes del Grupo
 * **Salvador Martínez Sánchez** (`salvador.m.s@um.es`) - Subgrupo 1.1
