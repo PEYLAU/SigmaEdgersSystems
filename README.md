@@ -6,3 +6,5 @@
 * **Salvador Martínez Sánchez** (`salvador.m.s@um.es`) - Subgrupo 1.1
 * **Pedro Chico Caballero** (`pedro.chicoc@um.es`) - Subgrupo 1.1
 * **Daniel** (`email@um.es`) - Subgrupo 1.1
+
+1º Fecha de entrega: **18 de octubre**
